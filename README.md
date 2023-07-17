@@ -1,4 +1,5 @@
 Vault Hunters Jewel Calculator
+
 The Vault Hunters Jewel Calculator is a Windows application that helps you calculate the best combination of jewels to use based on their size and value.
 
 How It Works
