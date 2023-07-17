@@ -20,8 +20,11 @@ How To Use
 10.	The best jewels to add, as well as the total value and size, will be displayed in the application's window.
 
 Note
+
 This application is designed for Windows operating systems.
+
 This application is made in around 4 hours, so it’s not perfect.
+
 For source code: [https://github.com/massuus/Jewel-Calculator-Vault-Hunters]
 
  
